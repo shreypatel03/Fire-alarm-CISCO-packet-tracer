@@ -1,1 +1,1 @@
-# Fire-alarm-CISCO-packet-tracer
+Implemented Cisco's Fire Alarm system in computer networks, enhancing securitymeasures and threat detection capabilities. Demonstrated adeptness in networksecurity through the successful deployment and configuration of advanced fire alarmsolutions.
